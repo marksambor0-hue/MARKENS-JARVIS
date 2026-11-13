@@ -1,6 +1,4 @@
 {
   "version": "0.4.1",
-  "download_url": "https://raw.githubusercontent.com/marksambor0-hue/MARKENS-JARVIS/main/releases/MARKENS-JARVIS-0.4.1.zip",
-  "sha256": "03a48019e5b56f095cfdc4d0edf05032f118e2febf8a94474f4a6566d45a0963",
-  "notes": "Отдельная версия MARKENS JARVIS 0.4.1. Обновления привязаны к самостоятельному репозиторию MARKENS-JARVIS."
+  "notes": "Текущая версия MARKENS JARVIS. Новые установочные пакеты и ZIP-обновления будут добавляться в каталог releases/ этого репозитория."
 }
